@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently taking courses on web development<br>👯 I am open to cooperation in the field of Full Stack<br>🤝 I’m looking for help <br>🌱 I’m currently learning java script<br>💬 Ask me questions about my work on github<br>⚡ Fun fact my undergraduate education was in science teaching
 
 
 ## 🌐 Socials:
